@@ -65,6 +65,8 @@ clip-path: polygon(100% 1%, 100% 72%, 14% 83%, 0 83%, 0 0);
           background-image: url(http://subtlepatterns.com/patterns/dark_embroidery.png);
     
     }
+	
+	.headervid { display: none;}
 
 
 
